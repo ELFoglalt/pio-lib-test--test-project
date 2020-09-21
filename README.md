@@ -1,0 +1,1 @@
+This test projects attempts to use [a test library](https://github.com/ELFoglalt/pio-lib-test--test-lib) which depends on the Arduino toolchain bundled Wire dependency.
